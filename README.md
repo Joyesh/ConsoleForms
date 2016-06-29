@@ -4,3 +4,5 @@ A C#.NET library allowing to make winform-like componets inside console windows.
 ##### @Joyesh - Main & original developer.
 ##### @SirJosh3917 - Small bits of code, usually only helps when I have issues
 ###### When you help with the project, you will be added here!
+# Releases/development releases
+There are no releases at the moment. This project is still under heavy development.
