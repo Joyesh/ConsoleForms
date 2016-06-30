@@ -1,0 +1,8 @@
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\bin\Debug\Example.exe.config
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\bin\Debug\Example.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\bin\Debug\Example.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\bin\Debug\Joyesh.ConsoleForms.dll
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\bin\Debug\Joyesh.ConsoleForms.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\obj\Debug\Example.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\Joyesh.ConsoleForms\Example\obj\Debug\Example.pdb
