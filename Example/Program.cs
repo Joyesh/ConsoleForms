@@ -11,7 +11,7 @@ namespace Example
     {
         static void Main(string[] args)
         {
-            Console.Title = "ConsoleForms v1.0.0-alpha Demo";
+            Console.Title = "ConsoleForms v1.0.0 Alpha Demo";
             FormWindow NewForm = new FormWindow();
             NewForm.Show();
             Console.ReadKey();

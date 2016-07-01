@@ -26,10 +26,17 @@ namespace ConsoleForms
             //Code to add window stuff (Needs cleaning up and/or compacting)
             int y = 0;
             string spaces = "";
-            while (y != Width - 2)
+            while (y != Width)
             {
                 y += 1;
                 spaces += " ";
+            }
+            y = 0;
+            string spacest = "";
+            while (y != Width - Title.Length)
+            {
+                y += 1;
+                spacest += " ";
             }
             int x = 0;
             string topbottom = ""; //The text that renders at the top and bottom.
@@ -47,9 +54,9 @@ namespace ConsoleForms
                 x += 1;
                 //Render the chrome for the title divider.
                 if (x == 2) { Console.WriteLine("╠" + topbottom + "╣"); }
-                else if (x == 1) { Console.WriteLine("║" + Title + spaces + "║"); }
+                else if (x == 1) { Console.WriteLine("║" + Title + spacest + "║"); }
                 //Render the rest of the window
-                else if (x > 2) { Console.WriteLine("║" + spaces + "  ║"); }
+                else if (x > 2) { Console.WriteLine("║" + spaces + "║"); }
             }
             //Render the bottom chrome (edges) and the bottom part of the window
             Console.WriteLine("╚" + topbottom + "╝");
