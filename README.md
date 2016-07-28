@@ -1,4 +1,4 @@
-https://gitter.im/consoleform-s/dev-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/consoleform-s/dev-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # ConsoleForms
 A C#.NET library allowing to make winform-like componets inside console windows. This is useful for console programs that need a winform-like experience, but need to stay inside the console.
